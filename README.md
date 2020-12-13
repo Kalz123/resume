@@ -48,7 +48,7 @@
 
 ## <div align="center"> PROFESSIONAL EXPERIENCE
   
-**Tesla,Inc., Production associate.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019**
+**Tesla,Inc., Production associate.                                                                                                                           2019**
 
 * Improved production of Tesla Model 3 cars by 30% by initiating techniques on a line that improved efficiency and reduced the  run time of production.
 * Operated robotic system and complex manufacturing equipment on the line.
