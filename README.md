@@ -55,7 +55,7 @@
 
 ## <div align="center"> EDUCATION
   
-**Data Science Immersive                                                                                                                           3/2020 – 6/2020**
+**Data Science Immersive**                                                                                                                       **3/2020 – 6/2020**
 
 General Assembly San Francisco, CA
 
